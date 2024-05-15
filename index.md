@@ -75,7 +75,7 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
-These workshops are funded jointly by ...(whom?)
+These workshops are funded by ...(whom?)
 
 <h2 id="general">General Information</h2>
 
