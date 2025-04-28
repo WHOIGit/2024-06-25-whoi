@@ -13,7 +13,7 @@ humandate: "Jun 25-26, 2024"    # human-readable dates for the workshop (e.g., "
 humantime: "8:30 am - 4:00 pm EST"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2024-06-25      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2024-06-26        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Dylan Titmuss (they/them)", "Ciara Willis", "Brett Longworth"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Dylan Titmuss", "Ciara Willis", "Brett Longworth"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Etienne Rouby", "Kun Ma", "John Walsh"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["blongworth@whoi.edu", "dylan.titmuss@whoi.edu", "ciwillis@whoi.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2024-06-25-whoi # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
